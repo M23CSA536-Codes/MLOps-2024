@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "This content completely replaces the old content for X-1." 
+=======
+"This is the modified content for X+1." 
+>>>>>>> M23CSA537
